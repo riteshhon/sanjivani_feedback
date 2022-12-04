@@ -100,6 +100,6 @@ To maintain a safe and inclusive space for everyone, to learn and grow.
 <hr>
 	
 © 2022 Ritesh Hon and contributors\
-This project is licensed under the [**MIT license**](https://github.com/riteshhon/sanjivani_feedback/Aec-Library-Website/blob/main/LICENSE).
+This project is licensed under the [**MIT license**](https://github.com/riteshhon/sanjivani_feedback/blob/main/LICENSE).
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
