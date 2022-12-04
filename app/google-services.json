@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204488538884",
+    "project_id": "sanjivanifeedback",
+    "storage_bucket": "sanjivanifeedback.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204488538884:android:10f44ce1e536f1c1ecee51",
+        "android_client_info": {
+          "package_name": "com.sanjivani.sanjivani_feedback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204488538884-b495pqe44gcohvtvhs8v72udenafteh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2DzLFPNZ9OXZDRibho5aw28CkhEl_opY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204488538884-b495pqe44gcohvtvhs8v72udenafteh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

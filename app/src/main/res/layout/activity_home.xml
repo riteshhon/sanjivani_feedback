@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity">
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/mainViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/cv_tabLayout" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/cv_tabLayout"
+        android:layout_alignParentBottom="true"
+        app:cardElevation="20dp"
+        android:outlineSpotShadowColor="@color/secondary_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/mainTabLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:elevation="20dp"
+            android:outlineSpotShadowColor="@color/secondary_color"
+            app:tabMode="fixed"
+            app:tabTextAppearance="@style/CustomTextAppearanceTab" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+
+
+</RelativeLayout>
