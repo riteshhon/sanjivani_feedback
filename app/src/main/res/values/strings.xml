@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sanjivani Feedback</string>
+
+    <string name="developed_by">Developed By</string>
+    <string name="sanjivani_sdc">Sanjivani Developer Student Club</string>
+    <string name="sigin_text">Meet your diploma mate that will provide the
+resources through your diploma journey!</string>
+    <string name="signin_with_google">Sign in with Google</string>
+    <string name="privacy_policy"><u>Privacy Policy</u></string>
+    <string name="terms_condition"><u>Terms &amp; Condition.</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="privacy_policys">Privacy Policy</string>
+</resources>
